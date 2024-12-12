@@ -2,7 +2,7 @@
 
 Authors: Karl Arthur Kade, Aaron Anders Jaani, Mihkel Kulu
 
-### The challange
+### The Challange
 Leverage 10 years of data on traffic accidents involving casualties to identify actionable insights for enhancing road safety. 
 
 ### Vision
