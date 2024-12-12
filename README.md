@@ -15,11 +15,11 @@ The repository contains:
      - Data loading and preprocessing.
      - Statistical analysis.
      - Visualizations of key patterns.
+     - Development and evaluation of predictive models.
 
 ### Replication Steps
 1. Ensure Python 3.x and Jupyter Notebook are installed (refer to the [official guide](https://jupyter.org/install)).
 2. Clone or download the repository.
-3. Download the processed dataset file Liiklusõnnetused_2011_2021.csv from (refer to the [Eesti Avaandmed](https://avaandmed.eesti.ee/datasets/inimkannatanutega-liiklusonnetuste-andmed)) and place it in the same directory as the notebook, or update the file path in the code accordingly.
-4. Open the Jupyter Notebook (`D5Project.ipynb`) in Jupyter Notebook or Jupyter Lab.
-5. Run the first cell to install any required libraries.
-6. Execute all cells sequentially to reproduce the analysis.
+3. Open the Jupyter Notebook (`D5Project.ipynb`) in Jupyter Notebook or Jupyter Lab.
+4. Run the first cell to install any required libraries.
+5. Execute all cells to reproduce the analysis.
