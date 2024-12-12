@@ -15,7 +15,6 @@ The repository contains:
      - Data loading and preprocessing.
      - Statistical analysis.
      - Visualizations of key patterns.
-     - Export of findings as needed.
 
 # Replication Steps
 1. Ensure Python 3.x and Jupyter Notebook are installed (refer to the [official guide](https://jupyter.org/install)).
